@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!-- 指定工作空间，要与接口名相同，源代码没有去看，猜测应该是通过"这里的namespace.下边方法的id"来定位方法的 -->
+<!-- 在MyBatisConfig中 设置了bean.setTypeAliasesPackage("com.gao.mybatis.domain"); 可以使用User代替com.gao.mybatis.entity.User -->
+<mapper namespace="com.gao.mybatis.mapper.UserMapper">
+    <select id="getUserCount" resultType="java.lang.Long">
+        <![CDATA[
+        select count(1) from t_user
+        ]]>
+    </select>
+    <select id="getUser" resultType="UserInfo" parameterType="java.lang.Integer">
+    <!--<select id="getUser" resultType="com.gao.mybatis.domain.UserInfo" parameterType="java.lang.Integer">-->
+        <![CDATA[
+        select id, name, account, password
+        from t_user
+        where id = #{id}
+        ]]>
+    </select>
+    <select id="getUserList" resultType="UserInfo">
+        <![CDATA[
+        select id, name, account, password
+        from t_user
+        ]]>
+    </select>
+    <select id="getUserMapList" resultType="java.util.HashMap">
+        <![CDATA[
+            select id, name, account, password
+            from t_user
+        ]]>
+    </select>
+    <!-- 若不需要自动返回主键，将useGeneratedKeys="true" keyProperty="id"去掉即可(当然如果不需要自动返回主键，直接用注解即可) -->
+    <insert id="saveUser"  parameterType="UserInfo" useGeneratedKeys="true" keyProperty="id" >
+        <![CDATA[
+          insert into t_user (name, account, password) values(#{name},#{account},#{password})
+        ]]>
+    </insert>
+    <cache eviction="LRU" flushInterval="86400000" size="256" readOnly="false"/>
+</mapper>
