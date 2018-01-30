@@ -75,8 +75,8 @@
       <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="525">
+              <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -539,48 +539,6 @@
             <path>
               <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootHelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1517,12 +1475,12 @@
       <workItem from="1517218392451" duration="16000" />
       <workItem from="1517218446287" duration="2918000" />
       <workItem from="1517290311392" duration="1001000" />
-      <workItem from="1517302454529" duration="37000" />
+      <workItem from="1517302454529" duration="163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76718000" />
+    <option name="totallyTimeSpent" value="76844000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1918,8 +1876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="525">
+          <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
           <folding />
         </state>
       </provider>
