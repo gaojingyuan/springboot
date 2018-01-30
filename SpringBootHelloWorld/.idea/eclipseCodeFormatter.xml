@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1460456526647" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../../intellijspace/jzx/doc/specification/formatter/java-formatter-1.1.xml" />
+        <option name="selectedJavaProfile" value="java-formater-1.1" />
+      </Settings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: p6spy:p6spy:2.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/p6spy/p6spy/2.3.1/8b6e5c98b94ae8d835d4ce7be051c149fb5c10c0/p6spy-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/p6spy/p6spy/2.3.1/be4eae2bf2dad70d0e256eca1db0d1d929cfac0e/p6spy-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
