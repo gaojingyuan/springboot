@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+build
+.gradle
+
+SpringBootHelloWorld.iml
+SpringBootHelloWorld.ipr
+SpringBootHelloWorld.iws
+
