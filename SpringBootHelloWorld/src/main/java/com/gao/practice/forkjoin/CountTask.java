@@ -1,9 +1,6 @@
 package com.gao.practice.forkjoin;
 
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ForkJoinPool;
-import java.util.concurrent.Future;
-import java.util.concurrent.RecursiveTask;
+import java.util.concurrent.*;
 
 // http://www.infoq.com/cn/articles/fork-join-introduction
 // RecursiveAction ：用于没有返回结果的任务

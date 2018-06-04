@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kie.soup:kie-soup-commons:7.7.0.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kie.soup/kie-soup-commons/7.7.0.Final/ae18ebe0c51b507a59d20010ea5b00040b3c834f/kie-soup-commons-7.7.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kie.soup/kie-soup-commons/7.7.0.Final/7c7314d276ddc50d641cdaa127e3e561e324e33b/kie-soup-commons-7.7.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
