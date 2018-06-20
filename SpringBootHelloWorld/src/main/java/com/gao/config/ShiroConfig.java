@@ -60,6 +60,7 @@ public class ShiroConfig {
         chains.put("/css/**", "anon");
         chains.put("/layer/**", "anon");
         chains.put("/selenium/**", "anon");
+        chains.put("/drools/**", "anon");
         chains.put("/**", "authc,perms");
         bean.setFilterChainDefinitionMap(chains);
         return bean;

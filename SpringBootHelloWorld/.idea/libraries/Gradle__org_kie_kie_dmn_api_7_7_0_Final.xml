@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kie:kie-dmn-api:7.7.0.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kie/kie-dmn-api/7.7.0.Final/2a70ef0b0260a9fb134775a1b6db88d060144f3f/kie-dmn-api-7.7.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kie/kie-dmn-api/7.7.0.Final/fe2fa60aafa44b26448c03f9a9854c628d0a8d49/kie-dmn-api-7.7.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
