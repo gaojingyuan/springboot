@@ -1,9 +1,18 @@
 # Created by .ignore support plugin (hsz.mobi)
-build
-.gradle
-out
+build/
+out/
+target/
+.gradle/
 
-SpringBootHelloWorld.iml
-SpringBootHelloWorld.ipr
-SpringBootHelloWorld.iws
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
 

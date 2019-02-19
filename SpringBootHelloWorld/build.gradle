@@ -71,5 +71,6 @@ dependencies {
     compile("org.kie.server:kie-server-client:7.7.0.Final")
     // test
     compile("org.seleniumhq.selenium:selenium-server-standalone:2.43.1")
+    compile("io.projectreactor:reactor-core:3.2.6.RELEASE")
     testCompile("org.springframework.boot:spring-boot-starter-test")
 }
