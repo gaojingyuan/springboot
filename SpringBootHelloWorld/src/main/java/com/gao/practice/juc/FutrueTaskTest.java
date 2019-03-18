@@ -28,17 +28,17 @@ public class FutrueTaskTest {
 //        }
 //        futureTask.cancel(false);
 
-        try {
-            // 如果超过1000毫秒没返回 抛出TimeoutException异常
-            Integer currentRes = futureTask.get(1000, TimeUnit.MILLISECONDS);
-            System.out.println(currentRes);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        } catch (ExecutionException e) {
-            e.printStackTrace();
-        } catch (TimeoutException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            // 如果超过1000毫秒没返回 抛出TimeoutException异常
+//            Integer currentRes = futureTask.get(1000, TimeUnit.MILLISECONDS);
+//            System.out.println(currentRes);
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        } catch (ExecutionException e) {
+//            e.printStackTrace();
+//        } catch (TimeoutException e) {
+//            e.printStackTrace();
+//        }
 
         try {
             Integer res = futureTask.get();
